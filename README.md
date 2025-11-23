@@ -14,7 +14,7 @@ Este proyecto presenta información sobre bandas icónicas de los géneros grung
 - GitHub Pages para publicación
 
 ## Ver el proyecto en línea
-https://yanucastillor-lang.github.io/Proyecto-final-HTML---Grunge-y-Nu-Metal/
+https://yanucastillor-lang.github.io/Proyecto-final-HTML---Grunge-y-Nu-Metal
 
 ## Repositorio
 https://github.com/yanucastillor-lang/Proyecto-final-HTML---Grunge-y-Nu-Metal
